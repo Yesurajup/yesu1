@@ -30,8 +30,12 @@ main
 
 ![nature](https://i.pinimg.com/originals/1b/aa/1f/1baa1f42a05b4a83fe1b6f7851ff5863.gif)
 
-- [ ] hi w
+- [x] hi w
 - [x] #739
 - [ ] https://github.com/octo-org/octo-repo/issues/740
 - [ ] Add delight to the experience when all tasks are complete :tada:
+
+NAME|S.NO
+----|-----
+YESURAJU|3
 
